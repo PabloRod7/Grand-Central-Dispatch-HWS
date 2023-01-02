@@ -1,4 +1,5 @@
-# Project 9 Grand Central Dispatch
+# Grand Central Dispatch HWS
+Learn how to run complex tasks in the background with GCD.
 thats a better version of Project 7 
 
 https://www.hackingwithswift.com/100/39
