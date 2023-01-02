@@ -1,4 +1,4 @@
-# Grand Central Dispatch HWS
+# Grand Central Dispatch Haking with Swift
 Learn how to run complex tasks in the background with GCD.
 thats a better version of Project 7 
 
